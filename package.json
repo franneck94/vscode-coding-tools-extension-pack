@@ -1,0 +1,42 @@
+{
+  "name": "vscode-coding-tools-extension-pack",
+  "displayName": "Coding Tools Extension Pack",
+  "description": "Popular VS Code extensions for development.",
+  "version": "0.2.0",
+  "publisher": "franneck94",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "icon": "Icon.png",
+  "galleryBanner": {
+    "color": "#222222",
+    "theme": "dark"
+  },
+  "keywords": [
+    "coding",
+    "utility",
+    "tools"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "url": "https://github.com/franneck94/vscode-coding-tools-extension-pack"
+  },
+  "homepage": "https://github.com/franneck94/vscode-coding-tools-extension-pack",
+  "bugs": {
+    "url": "https://github.com/franneck94/vscode-coding-tools-extension-pack/issues"
+  },
+  "extensionPack": [
+    "lacroixdavid1.vscode-format-context-menu",
+    "aaron-bond.better-comments",
+    "christian-kohler.path-intellisense",
+    "visualstudioexptteam.vscodeintellicode",
+    "ryu1kn.partial-diff",
+    "peakchen90.open-html-in-browser",
+    "redhat.vscode-yaml",
+    "yzhang.markdown-all-in-one",
+    "davidanson.vscode-markdownlint",
+    "editorconfig.editorconfig"
+  ]
+}
