@@ -2,7 +2,7 @@
   "name": "vscode-coding-tools-extension-pack",
   "displayName": "Coding Tools Extension Pack",
   "description": "Popular VS Code extensions for development.",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publisher": "franneck94",
   "engines": {
     "vscode": "^1.50.0"
@@ -37,6 +37,7 @@
     "redhat.vscode-yaml",
     "yzhang.markdown-all-in-one",
     "davidanson.vscode-markdownlint",
-    "editorconfig.editorconfig"
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode"
   ]
 }

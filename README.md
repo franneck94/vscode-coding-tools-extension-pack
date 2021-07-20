@@ -14,6 +14,7 @@ These are some of my favorite extensions to make development easier and fun.
 * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need for Markdown (keyboard shortcuts, table of contents, auto preview and more).
 * [Markdown Lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Markdown/CommonMark linting and style checking for Visual Studio Code.
 * [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
+* [Prettier](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - Code Formatter for Markdown, YAML, JSON and more.
 
 ## Want to see your extension added?
 

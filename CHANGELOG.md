@@ -1,10 +1,13 @@
-# Change Log
+# Coding Tools Extension Pack Change Log
 
-All notable changes to this project will be documented in this file.
+## Version 0.3.0
 
-## [Releases]
+- Added Prettier
 
-- 0.2.0
-  - Added EditorConfig
-- 0.1.0
-  - Initial release
+## Version 0.2.0
+
+- Added EditorConfig
+
+## Version 0.1.0
+
+- Initial release
