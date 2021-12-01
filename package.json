@@ -2,10 +2,10 @@
   "name": "vscode-coding-tools-extension-pack",
   "displayName": "Coding Tools Extension Pack",
   "description": "Popular VS Code extensions for development.",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "publisher": "franneck94",
   "engines": {
-    "vscode": "^1.50.0"
+    "vscode": "^1.58.0"
   },
   "icon": "Icon.png",
   "galleryBanner": {
@@ -38,6 +38,8 @@
     "yzhang.markdown-all-in-one",
     "davidanson.vscode-markdownlint",
     "editorconfig.editorconfig",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "adpyke.codesnap",
+    "tomoki1207.pdf"
   ]
 }

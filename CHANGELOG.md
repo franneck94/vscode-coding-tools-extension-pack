@@ -1,5 +1,10 @@
 # Coding Tools Extension Pack Change Log
 
+## Version 0.4.0
+
+- Added CodeSnap
+- Added PDF Viewer
+
 ## Version 0.3.0
 
 - Added Prettier

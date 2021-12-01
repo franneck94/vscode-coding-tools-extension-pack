@@ -15,6 +15,8 @@ These are some of my favorite extensions to make development easier and fun.
 * [Markdown Lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Markdown/CommonMark linting and style checking for Visual Studio Code.
 * [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - Code Formatter for Markdown, YAML, JSON and more.
+* [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) -  Take beautiful screenshots of your code in VS Code!
+* [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) - Display pdf file in VSCode.
 
 ## Want to see your extension added?
 
