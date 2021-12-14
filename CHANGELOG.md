@@ -1,5 +1,10 @@
 # Coding Tools Extension Pack Change Log
 
+## Version 0.5.0
+
+- Dropped Format Context Menu
+- Added my own (franneck94) Format Workspace Extension
+
 ## Version 0.4.0
 
 - Added CodeSnap

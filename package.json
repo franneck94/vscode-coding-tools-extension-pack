@@ -2,10 +2,10 @@
   "name": "vscode-coding-tools-extension-pack",
   "displayName": "Coding Tools Extension Pack",
   "description": "Popular VS Code extensions for development.",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "publisher": "franneck94",
   "engines": {
-    "vscode": "^1.58.0"
+    "vscode": "^1.63.0"
   },
   "icon": "Icon.png",
   "galleryBanner": {
@@ -28,7 +28,7 @@
     "url": "https://github.com/franneck94/vscode-coding-tools-extension-pack/issues"
   },
   "extensionPack": [
-    "lacroixdavid1.vscode-format-context-menu",
+    "franneck94.workspace-formatter",
     "aaron-bond.better-comments",
     "christian-kohler.path-intellisense",
     "visualstudioexptteam.vscodeintellicode",
