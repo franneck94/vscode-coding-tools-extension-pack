@@ -1,5 +1,12 @@
 # Coding Tools Extension Pack Change Log
 
+## Version 0.6.0
+
+- Added the following extensions
+  - Tabout
+  - SVG Preview
+  - Error Lens
+
 ## Version 0.5.0
 
 - Dropped Format Context Menu
