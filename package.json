@@ -2,7 +2,7 @@
   "name": "vscode-coding-tools-extension-pack",
   "displayName": "Coding Tools Extension Pack",
   "description": "Popular VSCode extensions for development.",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "publisher": "franneck94",
   "engines": {
     "vscode": "^1.65.0"
@@ -42,7 +42,6 @@
     "adpyke.codesnap",
     "tomoki1207.pdf",
     "usernamehw.errorlens",
-    "vitaliymaz.vscode-svg-previewer",
-    "albert.tabout"
+    "vitaliymaz.vscode-svg-previewer"
   ]
 }

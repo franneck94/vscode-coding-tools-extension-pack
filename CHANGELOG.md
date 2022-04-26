@@ -1,5 +1,9 @@
 # Coding Tools Extension Pack Change Log
 
+## Version 0.7.0
+
+- Removed Tabout
+
 ## Version 0.6.0
 
 - Added the following extensions

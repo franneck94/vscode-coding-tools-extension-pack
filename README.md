@@ -17,7 +17,6 @@ These are my favorite extensions to make VSCode and development (regardless of t
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - Code Formatter for Markdown, YAML, JSON and more.
 * [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) -  Take beautiful screenshots of your code,
 * [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=albert.TabOut) - Display pdf file.
-* [Tabout](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) - Tab out of quotes, brackets, etc.
 * [SVG Previewer](https://marketplace.visualstudio.com/items?itemName=vitaliymaz.vscode-svg-previewer) - Preview SVG images.
 * [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Highlight lines containing diagnostics.
 
