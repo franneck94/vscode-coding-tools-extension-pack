@@ -1,5 +1,12 @@
 # Coding Tools Extension Pack Change Log
 
+## Version 0.8.0
+
+- Added the following extensions:
+  - Even Better TOML
+  - Hex Editor
+  - Remote Development
+
 ## Version 0.7.0
 
 - Removed Tabout

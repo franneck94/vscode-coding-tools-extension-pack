@@ -19,6 +19,9 @@ These are my favorite extensions to make VSCode and development (regardless of t
 * [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=albert.TabOut) - Display pdf file.
 * [SVG Previewer](https://marketplace.visualstudio.com/items?itemName=vitaliymaz.vscode-svg-previewer) - Preview SVG images.
 * [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Highlight lines containing diagnostics.
+* [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) - This extension will try to support all the TOML versions in the future.
+* [Hex Editor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor) - Hex editor for viewing and manipulating files in their raw hexadecimal representation.
+* [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - Open any folder in a container, on a remote machine, or in the WSL.
 
 ## Want to see your extension added?
 
