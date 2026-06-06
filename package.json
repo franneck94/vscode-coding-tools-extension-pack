@@ -2,7 +2,7 @@
   "name": "vscode-coding-tools-extension-pack",
   "displayName": "Coding Tools Extension Pack",
   "description": "Popular VSCode extensions for development.",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "publisher": "franneck94",
   "engines": {
     "vscode": "^1.72.0"
@@ -31,7 +31,6 @@
     "franneck94.workspace-formatter",
     "aaron-bond.better-comments",
     "christian-kohler.path-intellisense",
-    "visualstudioexptteam.vscodeintellicode",
     "ryu1kn.partial-diff",
     "peakchen90.open-html-in-browser",
     "redhat.vscode-yaml",
